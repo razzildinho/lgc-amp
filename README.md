@@ -1,4 +1,4 @@
-#LGC AMP
+# LGC AMP
 
 ```bash
 npm install
